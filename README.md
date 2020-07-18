@@ -4,3 +4,8 @@ I reimplement some popular deep learing algorithms here for future using in my r
 
 深度学习是HCI领域的常用技术手段。我希望在这里复现并整理常用的深度学习模型，以备日后查阅。
 
+## Image classification
+### AlexNet
+
+***
+
