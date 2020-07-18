@@ -7,6 +7,7 @@ The image size of CIFAR-10 dataset is 32*32, which is too small for original ALe
 * Python 3.7
 * Pytorch 1.2
 * argparse
+* tensorboard
 
 # Build and Run
 1. install related dependency libraries.
