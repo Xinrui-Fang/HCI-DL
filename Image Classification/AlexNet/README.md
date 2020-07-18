@@ -1,8 +1,6 @@
-# AlexNet
-
-## Dataset 
+# Dataset 
 * CIFAR-10
 
-## Experiment Environment
+# Environment && Dependency
 * Windows10
 * Python3.7
