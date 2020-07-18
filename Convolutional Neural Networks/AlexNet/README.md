@@ -8,6 +8,18 @@ The image size of CIFAR-10 dataset is 32*32, which is too small for original ALe
 * Pytorch 1.2
 * argparse
 
+# Build and Run
+The working file structure should look like this:
+'''
+[Layer 1]
+    |---- skeleton
+    |---- illustration
+          |---- path 1
+          |---- path 2
+          |---- path 3
+'''
+
+
 # Result
 The pricison on testset can reach to **70%** after 50 epoches.
 train-loss:
