@@ -26,3 +26,5 @@ test-loss:
 ![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/test_loss.svg)
 accuracy:
 ![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/accuracy.svg)
+
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/accuracy.svg" width = "200" height = "300" alt="" align=center />
