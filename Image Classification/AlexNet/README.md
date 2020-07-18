@@ -9,4 +9,9 @@ The image size of CIFAR-10 dataset is 32*32, which is too small for original ALe
 * argparse
 
 # Result
+train-loss:
 ![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Image%20Classification/AlexNet/img/train_loss.svg)
+test-loss:
+![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Image%20Classification/AlexNet/img/test_loss.svg)
+accuracy:
+![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Image%20Classification/AlexNet/img/accuracy.svg)
