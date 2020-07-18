@@ -1,4 +1,4 @@
-# HCI-DL
+# HCI-ML-with-Code
 Deep learning is widely used in HCI field, it grants more power for designers and engineers to develop useful and friendly products for users. 
 I reimplement some popular deep learing algorithms here for future using in my research.
 
