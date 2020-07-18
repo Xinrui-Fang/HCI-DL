@@ -21,10 +21,8 @@ The image size of CIFAR-10 dataset is 32*32, which is too small for original ALe
 # Result
 The pricison on testset can reach to **70%** after 50 epoches.
 train-loss:
-![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/train_loss.svg)
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/train_loss.svg" width = "500"  alt="" align=center />
 test-loss:
-![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/test_loss.svg)
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/test_loss.svg" width = "500"  alt="" align=center />
 accuracy:
-![train_loss](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/accuracy.svg)
-
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/AlexNet/img/accuracy.svg" width = "500"  alt="" align=center />
