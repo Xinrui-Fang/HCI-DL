@@ -10,7 +10,7 @@ The image size of CIFAR-10 dataset is 32*32, which is too small for original ALe
 
 # Build and Run
 The working file structure should look like this:
-'''
+'''python
 [Layer 1]
     |---- skeleton
     |---- illustration
