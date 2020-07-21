@@ -12,3 +12,5 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ### [AlexNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/AlexNet)
 ### [ResNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/ResNet)
 
+## Recurrent Neural Networks
+### [ResNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Recurrent%20Neural%20Networks/LSTM)
