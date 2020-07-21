@@ -19,5 +19,11 @@ The image size of CIFAR-10 dataset is 32*32, which is too small for original ALe
 ```
         [Layer 1]
         |---- main.py
-        |---- AlexNet.py
+        |---- ResNet.py
 ```
+## Result
+The pricison on testset can reach to **84%** after 20 epoches.<br/>
+train-loss:
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/ResNet/img/train_loss.svg" width = "500"  alt="" align=center /><br/>
+accuracy:
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Convolutional%20Neural%20Networks/ResNet/img/accuracy.svg" width = "500"  alt="" align=center /><br/>
