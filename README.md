@@ -11,3 +11,6 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ## Convolutional Neural Networks
 ### [AlexNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/AlexNet)
 ### [ResNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/ResNet)
+
+## Course Material
+### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos)
