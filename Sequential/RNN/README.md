@@ -15,7 +15,7 @@ The working file structure should look like this:
 
 ## Result
 
-confusion matrix:
+confusion matrix:<br/>
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/RNN/img/confusion_matrix.jpg" width = "500"  alt="" align=center /><br/>
-loss:
+loss:<br/>
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/RNN/img/loss.jpg" width = "500"  alt="" align=center /><br/>
