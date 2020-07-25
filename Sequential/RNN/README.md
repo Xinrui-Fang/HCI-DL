@@ -1,5 +1,6 @@
 # RNN
-This work followed from pytorch [NLP tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html), the basic RNN structure is implemented manually. The model is trained to classify names of different languages.
+This work followed from pytorch [NLP tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html), the basic RNN structure is implemented manually. The model is trained to classify names of different languages. The structure of RNN is shown below:
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/RNN/img/rnn.png" width = "1000"  alt="" align=center /><br/>
 
 ## Tutorial
 ### [RNN的讲解](https://www.bilibili.com/video/BV1ix411L7Cs?from=search&seid=6586092532493338538)
