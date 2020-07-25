@@ -3,9 +3,6 @@ This work followed from pytorch [NLP tutorial](https://pytorch.org/tutorials/int
 
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/RNN/img/rnn.png" width = "500"  alt="" align=center /><br/>
 
-## Tutorial
-### [RNN的讲解](https://www.bilibili.com/video/BV1ix411L7Cs?from=search&seid=6586092532493338538)
-
 ## Build and Run
 The working file structure should look like this:
 ```
