@@ -9,12 +9,12 @@ I reimplement some popular deep learing algorithms here for future using in my r
 深度学习是HCI领域的常用技术手段。我希望在这里复现并整理常用的深度学习模型，以备日后查阅，加油！
 
 ## Convolutional Neural Networks
-### [AlexNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/AlexNet) CIFAR-10 分类
-### [ResNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/ResNet) CIFAR-10 分类
+### [AlexNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/AlexNet) CIFAR-10 Classification
+### [ResNet](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Convolutional%20Neural%20Networks/ResNet) CIFAR-10 Classification
 
 ## Sequential
-### [RNN](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/RNN) 姓名分类
-### [LSTM](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/LSTM) 预测航班人数
+### [RNN](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/RNN) Name Classification
+### [LSTM](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/LSTM) Flight Passengers Prediction
 
 ## Course Material
 ### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos)
