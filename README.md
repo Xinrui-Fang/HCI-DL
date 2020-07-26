@@ -17,8 +17,8 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ### [LSTM](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/LSTM) Flight Passengers Prediction
 
 ## Object Detection Models
-### [YOLOv3](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Object%20Detection%20Models/YOLOv3)
+### [YOLOv3](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Object%20Detection%20Models/YOLOv3) & [Paper](https://arxiv.org/pdf/1804.02767v1.pdf)
 
 ## Course Material
-### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos) & [Paper](https://arxiv.org/pdf/1804.02767v1.pdf)
+### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos) 
 
