@@ -20,5 +20,5 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ### [YOLOv3](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Object%20Detection%20Models/YOLOv3)
 
 ## Course Material
-### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos)
+### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos) & [Paper](https://arxiv.org/pdf/1804.02767v1.pdf)
 
