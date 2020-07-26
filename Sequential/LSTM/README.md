@@ -16,6 +16,6 @@ The working file structure should look like this:
 Raw data:<br/>
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/LSTM/img/data.jpg" width = "500"  alt="" align=center /><br/>
 Prediction:<br/>
-<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/RNN/img/prediction.jpg" width = "500"  alt="" align=center /><br/>
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/LSTM/img/predict.jpg" width = "500"  alt="" align=center /><br/>
 Zoom:<br/>
-<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/RNN/img/zoom.jpg" width = "500"  alt="" align=center /><br/>
+<img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/LSTM/img/zoom.jpg" width = "500"  alt="" align=center /><br/>
