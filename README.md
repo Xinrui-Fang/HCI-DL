@@ -14,6 +14,7 @@ I reimplement some popular deep learing algorithms here for future using in my r
 
 ## Sequential
 ### [RNN](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/RNN)
+### [LSTM](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/LSTM)
 
 ## Course Material
 ### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos)
