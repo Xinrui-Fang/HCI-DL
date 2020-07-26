@@ -17,5 +17,5 @@ Raw Data:<br/>
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/LSTM/img/data.jpg" width = "1000"  alt="" align=center /><br/>
 Prediction:<br/>
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/LSTM/img/predict.jpg" width = "1000"  alt="" align=center /><br/>
-Zoom:<br/>
+Zoom In:<br/>
 <img src="https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Sequential/LSTM/img/zoom.jpg" width = "1000"  alt="" align=center /><br/>
