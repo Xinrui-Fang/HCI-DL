@@ -14,7 +14,7 @@ I reimplement some popular deep learing algorithms here for future using in my r
 
 ## Sequential
 ### [RNN](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/RNN) 姓名分类
-### [LSTM](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/LSTM) 预测航空公司出行人数
+### [LSTM](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Sequential/LSTM) 预测航班人数
 
 ## Course Material
 ### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos)
