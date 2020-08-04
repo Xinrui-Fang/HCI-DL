@@ -23,7 +23,7 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ### [Linear Layer Classification](https://mp.weixin.qq.com/s/8wqct9gxsmhVDprxhv6WBg)
 
 ## Overfitting Problem
-### [Prevent Overfitting](https://zhuanlan.zhihu.com/p/69339955)
+### [Prevent Overfitting](https://zhuanlan.zhihu.com/p/69339955) UrbanSound8K Dataset
 
 ## Course Material
 ### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos) 
