@@ -3,6 +3,7 @@
 
 ## Toturial
 [How to implement a YOLO (v3) object detector from scratch in PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+</br>
 [Pytorch 搭建自己的YOLO3目标检测平台](https://www.bilibili.com/video/BV1Hp4y1y788?p=11)
 
 ## Resources
