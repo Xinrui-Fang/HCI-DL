@@ -24,6 +24,7 @@ I reimplement some popular deep learing algorithms here for future using in my r
 
 ## Others
 ### [Prevent Overfitting](https://zhuanlan.zhihu.com/p/69339955) 
+### [Plot Confusion Matrix](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/Others/Confusion%20Matrix) 
 
 ## Course Material
 ### [CS 6750: Human-Computer Interaction Course](https://omscs.gatech.edu/cs-6750-human-computer-interaction-course-videos) 
