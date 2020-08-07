@@ -22,7 +22,7 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ## Audio
 ### [Linear Layer Classification](https://mp.weixin.qq.com/s/8wqct9gxsmhVDprxhv6WBg) UrbanSound8K Dataset
 
-## Overfitting Problem
+## Others
 ### [Prevent Overfitting](https://zhuanlan.zhihu.com/p/69339955) 
 
 ## Course Material
