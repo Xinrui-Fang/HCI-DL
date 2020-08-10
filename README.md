@@ -19,6 +19,9 @@ I reimplement some popular deep learing algorithms here for future using in my r
 ## Object Detection Models
 ### [YOLOv3](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Object%20Detection%20Models/YOLOv3) & [Paper](https://arxiv.org/pdf/1804.02767v1.pdf)
 
+## GAN
+### [GAN]()
+
 ## Audio
 ### [Linear Layer Classification](https://mp.weixin.qq.com/s/8wqct9gxsmhVDprxhv6WBg) UrbanSound8K Dataset
 
