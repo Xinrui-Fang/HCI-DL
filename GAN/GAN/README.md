@@ -1,5 +1,6 @@
 # GAN
 Generate fake digit, trained on MINIST datast.
+The model is built with basic linera connected layer, it's easier for us to transfer to use CNN layer, which could generate better result.
 
 ## Result
 Real Image: <br/>
