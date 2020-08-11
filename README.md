@@ -24,7 +24,7 @@ All of CNN code is developed on pytorch.
 ### [YOLOv3](https://github.com/Xinrui-Fang/HCI-ML-with-Code/blob/master/Object%20Detection%20Models/YOLOv3) & [Paper](https://arxiv.org/pdf/1804.02767v1.pdf)
 
 ## GAN
-### [GAN]()
+### [simpleGAN](https://github.com/Xinrui-Fang/HCI-ML-with-Code/tree/master/GAN/GAN)
 
 ## Audio
 ### [Linear Layer Classification](https://mp.weixin.qq.com/s/8wqct9gxsmhVDprxhv6WBg) UrbanSound8K Dataset
